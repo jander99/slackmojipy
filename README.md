@@ -1,0 +1,2 @@
+# slackmojipy
+Slackmoji Sync Tool 
